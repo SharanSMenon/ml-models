@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sharansmenon.github.io/ml-models/blog</id>
+    <title>ML Models Blog</title>
+    <updated>2019-12-04T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sharansmenon.github.io/ml-models/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest ML Models news and events.</subtitle>
+    <logo>https://sharansmenon.github.io/ml-models/img/favicon.ico</logo>
+    <rights>Copyright © 2019 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[Sentiment analysis model added]]></title>
+        <id>https://sharansmenon.github.io/ml-models/blog/2019/12/04/Sentiment-analysis-model-added.html</id>
+        <link href="https://sharansmenon.github.io/ml-models/blog/2019/12/04/Sentiment-analysis-model-added.html"/>
+        <updated>2019-12-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>The sentiment analysis model has finally been added. The documentation is ready and you can use the url. There are two models. One can be used in python and the other can be used in JS.</p> <p>I will leave the link below to the models:</p> <p><a href="https://github.com/SharanSMenon/ml-models/tree/master/sentiment_analysis/">https://github.com/Sh...</a></p>]]></summary>
+        <author>
+            <name>Sharan Sajiv Menon</name>
+            <email/>
+            <uri>http://twitter.com/SharanSajiv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the ML Models Repository]]></title>
+        <id>https://sharansmenon.github.io/ml-models/blog/2019/12/02/First-Post.html</id>
+        <link href="https://sharansmenon.github.io/ml-models/blog/2019/12/02/First-Post.html"/>
+        <updated>2019-12-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hello and welcome to this repository. This repository will host a bunch of models that I have made. These models are free for anybody to use. As time goes on, more models will come.</p> ]]></summary>
+        <author>
+            <name>Sharan Sajiv Menon</name>
+            <email/>
+            <uri>http://twitter.com/SharanSajiv</uri>
+        </author>
+    </entry>
+</feed>

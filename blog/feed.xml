@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ML Models Blog</title>
+        <link>https://sharansmenon.github.io/ml-models/blog</link>
+        <description>The best place to stay up-to-date with the latest ML Models news and events.</description>
+        <lastBuildDate>Wed, 04 Dec 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>ML Models Blog</title>
+            <url>https://sharansmenon.github.io/ml-models/img/favicon.ico</url>
+            <link>https://sharansmenon.github.io/ml-models/blog</link>
+        </image>
+        <copyright>Copyright © 2019 Your Name or Your Company Name</copyright>
+        <item>
+            <title><![CDATA[Sentiment analysis model added]]></title>
+            <link>https://sharansmenon.github.io/ml-models/blog/2019/12/04/Sentiment-analysis-model-added.html</link>
+            <guid>https://sharansmenon.github.io/ml-models/blog/2019/12/04/Sentiment-analysis-model-added.html</guid>
+            <pubDate>Wed, 04 Dec 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The sentiment analysis model has finally been added. The documentation is ready and you can use the url. There are two models. One can be used in python and the other can be used in JS.</p> <p>I will leave the link below to the models:</p> <p><a href="https://github.com/SharanSMenon/ml-models/tree/master/sentiment_analysis/">https://github.com/Sh...</a></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the ML Models Repository]]></title>
+            <link>https://sharansmenon.github.io/ml-models/blog/2019/12/02/First-Post.html</link>
+            <guid>https://sharansmenon.github.io/ml-models/blog/2019/12/02/First-Post.html</guid>
+            <pubDate>Mon, 02 Dec 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hello and welcome to this repository. This repository will host a bunch of models that I have made. These models are free for anybody to use. As time goes on, more models will come.</p> ]]></description>
+        </item>
+    </channel>
+</rss>
