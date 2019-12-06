@@ -18,6 +18,8 @@ The model was trained with sklearn and it has a 95% accuracy.
 
 ## Script for usage
 
+> Make sure that you have scikit-learn installed
+
 ```py
 import pickle
 from urllib.request import Request, urlopen
